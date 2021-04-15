@@ -35,12 +35,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "XJLjQA5iqql1ySgfxuAh1Bh2Ka47RiH8";
+char auth[] = "AUTH";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "NufyBears";
-char pass[] = "NufNufBear1";
+char ssid[] = "SSID";
+char pass[] = "PASSWORD";
 
 int rudPos = 90;
 Servo rudderServ;
